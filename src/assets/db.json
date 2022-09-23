@@ -1,0 +1,13 @@
+{
+    "login":[
+        {
+            "email":"admin@gmail.com",
+            "passWord":1234
+        }
+    ],
+    "register":[
+        {
+            
+        }
+    ]
+}
